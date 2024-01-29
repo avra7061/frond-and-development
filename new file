@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+    <meta charset="UTF-8">
+    <title>Advanced CSS - Assignment 1</title>
+ <link="c:\Users\kk\OneDrive\Desktop\New folder\External CSS.css1.css" type="text/css" rel="stylesheet">
+</head>
+<body>
+    <h1>Main Heading</h1>
+    <p>Paragraph 1</p>
+    <a href="https://www.google.com/"target="_blank">Google</a>
+    <a href="https://www.google.com/doodles"target="_blank">Google Doodles</a>
+    <a href="https://www.link-group.eu/" target="_self">Goto Link Group</a>
+    <div id="first-div">
+        <h2>Subheading</h2>
+        <p::after {
+            content: " - NEW";
+            color: green;
+        }>Paragraf2</p>
+        <p::after {
+            content: " - NEW";
+            color: green;
+        }>Paragraf3</p>
+    </div>
+         <div id="second-div">
+            <h3>Sub subheading</h3>
+            <p style="color: red;">Paragraph 4</p>
+            <p style="color:blue;">Paragraph 5</p>
+            <p style="color: red;">Paragraph 6</p>
+            <p style="color:blue;">Paragraph 7</p>
+            <p style="color: red;">Paragraph 8</p>
+     </div>
+     <p>Paragraph 9</p>
+     <p::hover{style=
+        text-decoration:italic;}>Paragraph 10</p>
+     </body>
+</html>
